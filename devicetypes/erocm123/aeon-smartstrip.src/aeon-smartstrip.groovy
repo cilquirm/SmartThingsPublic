@@ -11,6 +11,7 @@
  *  for the specific language governing permissions and limitations under the License.
  *
  */
+
 metadata {
 	definition (name: "Aeon SmartStrip", namespace: "erocm123", author: "Eric Maycock") {
 		capability "Switch"
